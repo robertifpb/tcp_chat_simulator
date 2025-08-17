@@ -39,7 +39,7 @@ TCP_CHAT_SIMULATOR/
  
  1️⃣ Clone o repositório (ou **baixe o projeto**):
 
-- git clone https://github.com/seu-usuario/chat_p2p.git
+- git clone https://github.com/robertifpb/tcp_chat_simulator.git
     
 - cd chat_p2p
 
