@@ -40,14 +40,17 @@ TCP_CHAT_SIMULATOR/
  
  1️⃣ Clone o repositório (ou **baixe o projeto**):
 
-- git clone https://github.com/robertifpb/tcp_chat_simulator.git
-    
-- cd tcp_chat_simulator
+```
+git clone https://github.com/robertifpb/tcp_chat_simulator.git
+```
 
+```
+cd tcp_chat_simulator
+```
  2️⃣ Execute o script principal:
- 
- - python main.py
-
+``` 
+ python main.py
+```
  3️⃣ Informe os dados de conexão para o usuário:
 
  - Nome de usuário.
