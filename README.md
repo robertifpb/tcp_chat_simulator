@@ -26,14 +26,15 @@ O principal objetivo deste projeto é demonstrar os conceitos de programação d
 - Time (módulo utilizado para **realizar pausas no programa, para o usuário**).
 - Armazenamento de Logs (onde é realizado **o registro dos principais eventos do programa**).
 
-## 🏗️ Estrutura do projeto
+## 📂 Estrutura do projeto
 
+```
 TCP_CHAT_SIMULATOR/
-│
-├─ 📁 src/
-│ └─ 📄 main.py # Script principal do chat
-├─ 📄 .gitignore # Arquivos a serem ignorados pelo Git
-└─ 📄 README.md # Documentação do projeto
+│── src/                # Código-fonte
+│   └── main.py         # Script principal do chat
+│── .gitignore          # Arquivos a serem ignorados pelo Git
+└── README.md           # Documentação do projeto
+```
 
 ## ▶️ Como executar
  
