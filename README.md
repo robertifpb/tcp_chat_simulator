@@ -41,7 +41,7 @@ TCP_CHAT_SIMULATOR/
 
 - git clone https://github.com/robertifpb/tcp_chat_simulator.git
     
-- cd chat_p2p
+- cd tcp_chat_simulator
 
  2️⃣ Execute o script principal:
  
