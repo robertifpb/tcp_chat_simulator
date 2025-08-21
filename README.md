@@ -2,7 +2,7 @@
 
 Este é um projeto prático onde apresenta um protótipo funcional de chat peer-to-peer (P2P) em `Python`, utilizando **sockets TCP e threads**, com **registro de logs** e interface de console amigável.
 
-Foi desenvolvido com o apoio do professor Ms. Alex Cabral de Brito, durante às aulas da disciplina de Protocolos e Interconecção de Redes de Computadores.
+Foi desenvolvido com o apoio do professor Ms. Alex Cabral de Brito, durante às aulas da disciplina de Protocolos e Interconexão de Redes de Computadores.
 
 ## 🎯 Objetivos
 
